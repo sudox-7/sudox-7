@@ -22,7 +22,7 @@ Backend-focused developer building high-performance APIs and AI-powered systems.
 
 ### **Languages & Frameworks**
 
-![Stack](https://skillicons.dev/icons?i=js,ts,python,html,css,nodejs,express,mongodb,nextjs,sql)
+![Stack](https://skillicons.dev/icons?i=js,ts,python,html,css,nodejs,nextjs,express,mongodb,sql)
 
 ---
 
