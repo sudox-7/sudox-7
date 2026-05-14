@@ -39,7 +39,7 @@ Backend-focused developer building high-performance APIs and AI-powered systems.
 
 ### **Infrastructure & Tools**
 
-![Tools](https://skillicons.dev/icons?i=linux,windows,ubuntu,docker,git,vscode,npm,postman,github,kali)
+![Tools](https://skillicons.dev/icons?i=linux,ubuntu,kali,docker,git,vscode,npm,postman,github)
 
 ---
 
