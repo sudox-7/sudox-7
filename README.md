@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oussama
 
-### 💻 Backend Architect & AI Engineer | Frontend 
+### 💻 Backend Architect & AI Engineer 
 
 **Building Scalable Systems | AI Orchestration | Automation**
 
