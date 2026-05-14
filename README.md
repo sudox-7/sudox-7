@@ -22,7 +22,7 @@ Backend-focused developer building high-performance APIs and AI-powered systems.
 
 ### **Languages & Frameworks**
 
-![Stack](https://skillicons.dev/icons?i=js,ts,python,html,css,nodejs,express,mongodb,nextjs,github)
+![Stack](https://skillicons.dev/icons?i=js,ts,python,html,css,nodejs,express,mongodb,nextjs,sql)
 
 ---
 
@@ -39,7 +39,7 @@ Backend-focused developer building high-performance APIs and AI-powered systems.
 
 ### **Infrastructure & Tools**
 
-![Tools](https://skillicons.dev/icons?i=linux,ubuntu,docker,git,vscode,npm,postman)
+![Tools](https://skillicons.dev/icons?i=linux,ubuntu,docker,git,vscode,npm,postman,github,kali)
 
 ---
 
