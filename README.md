@@ -55,18 +55,10 @@ Building production-ready APIs with:
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudox-7&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudox-7&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 📫 Connect
 
-* GitHub:  https://github.com/sudox-7
 * Linkdin: https://www.linkedin.com/in/oussama-atouch-92716033b/
 * kaggle:  https://www.kaggle.com/oussamaatouch
 
