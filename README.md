@@ -22,7 +22,7 @@ Backend-focused developer building high-performance APIs and AI-powered systems.
 
 ### **Languages & Frameworks**
 
-![Stack](https://skillicons.dev/icons?i=js,typscript,python,html,css,nodejs,express,mongodb,next.js)
+![Stack](https://skillicons.dev/icons?i=js,ts,python,html,css,nodejs,express,mongodb,nextjs,github)
 
 ---
 
@@ -33,6 +33,7 @@ Backend-focused developer building high-performance APIs and AI-powered systems.
 * LangSmith
 * MCP (Model Context Protocol)
 * LLM Integration & Prompt Engineering
+* A2A (Agent to Agent)
 
 ---
 
